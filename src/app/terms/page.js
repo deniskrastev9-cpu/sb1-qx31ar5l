@@ -21,3 +21,5 @@ export default function Terms() {
     </div>
   );
 }
+<a href="/privacy-policy">Privacy Policy</a>
+<a href="/terms">Terms</a>
