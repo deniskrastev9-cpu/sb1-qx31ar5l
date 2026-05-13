@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Privacy Policy - DVS Automation Solutions</title>
+</head>
+<body style="font-family: Arial; padding: 40px; max-width: 800px;">
+  <h1>Privacy Policy</h1>
+
+  <p>
+    DVS Automation Solutions collects contact information only to provide customer communication services.
+  </p>
+
+  <p>
+    We do not sell or share personal data with third parties.
+  </p>
+
+  <p>
+    SMS consent is required for messaging. You may opt out anytime by replying STOP.
+  </p>
+
+  <p>
+    Contact: service@dvsautomationsolutionsllc.com
+  </p>
+</body>
+</html>
