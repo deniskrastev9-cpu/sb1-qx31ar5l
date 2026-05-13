@@ -23,3 +23,5 @@ export default function PrivacyPolicy() {
     </div>
   );
 }
+<a href="/privacy-policy">Privacy Policy</a>
+<a href="/terms">Terms</a>
