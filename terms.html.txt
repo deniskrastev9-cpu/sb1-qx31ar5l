@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Terms of Service - DVS Automation Solutions</title>
+</head>
+<body style="font-family: Arial; padding: 40px; max-width: 800px;">
+
+  <h1>Terms of Service</h1>
+
+  <p>
+    DVS Automation Solutions provides business communication and automation services to help businesses respond to customer inquiries and manage communications more efficiently.
+  </p>
+
+  <p>
+    By using our services, you agree to use them only for lawful business purposes. You may not use our systems for spam, abuse, or illegal activity.
+  </p>
+
+  <p>
+    SMS messages, if enabled, are used only for service-related communication such as customer follow-ups and appointment coordination.
+  </p>
+
+  <p>
+    We reserve the right to update or modify these terms at any time.
+  </p>
+
+  <p>
+    Contact: service@dvsautomationsolutionsllc.com
+  </p>
+
+</body>
+</html>
